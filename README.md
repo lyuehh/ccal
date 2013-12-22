@@ -15,7 +15,7 @@ Install: `npm install -g ccal`
 
 ## Release History
 
-* 0.0.1 2013-12-22 init
+* 0.0.2 2013-12-22 init
 
 ## License
 Copyright (c) 2013 lyuehh. Licensed under the MIT license.
