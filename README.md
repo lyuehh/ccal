@@ -6,6 +6,8 @@ Like `cal`, but more useful
 Install: `npm install -g ccal`
 
 ## Example
+![201312](https://raw.github.com/lyuehh/ccal/master/screenshot/201312.png)
+![201410](https://raw.github.com/lyuehh/ccal/master/screenshot/201410.png)
 
 ## Release History
 
