@@ -1,6 +1,6 @@
 {
   "name": "ccal",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/ccal.js",
   "description": "cal for command line.",
   "homepage": "https://github.com/lyuehh/ccal",
@@ -14,21 +14,25 @@
     "type": "git",
     "url": "https://github.com/lyuehh/ccal"
   },
+  "bin": {
+    "ccal": "./bin/cli.js"
+  },
   "licenses": [
     {
       "type": "MIT"
     }
   ],
+  "scripts": {
+    "test": "grunt"
+  },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
     "grunt-contrib-nodeunit": "~0.2.0",
     "grunt-contrib-watch": "~0.5.0"
   },
   "dependencies": {
-    "commander": "*",
     "colors": "~0.6.2",
     "yaml": "~0.2.3",
-    "underscore": "~1.5.2",
-    "moment": "~2.4.0"
+    "underscore": "~1.5.2"
   }
 }
