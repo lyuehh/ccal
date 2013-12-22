@@ -1,26 +1,15 @@
 # ccal [![Build Status](https://secure.travis-ci.org/lyuehh/ccal.png?branch=master)](http://travis-ci.org/lyuehh/ccal)
 
-cal for command line.
+Like `cal`, but more useful
 
 ## Getting Started
-Install the module with: `npm install ccal`
+Install: `npm install -g ccal`
 
-```javascript
-var ccal = require('ccal');
-ccal.awesome(); // "awesome"
-```
-
-## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
-
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+## Example
 
 ## Release History
-_(Nothing yet)_
+
+* 0.0.1 2013-12-22 init
 
 ## License
 Copyright (c) 2013 lyuehh. Licensed under the MIT license.
