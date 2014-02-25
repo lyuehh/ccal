@@ -1,6 +1,6 @@
 {
   "name": "ccal",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "lib/ccal.js",
   "description": "cal for command line.",
   "homepage": "https://github.com/lyuehh/ccal",
@@ -33,6 +33,7 @@
   "dependencies": {
     "colors": "~0.6.2",
     "yaml": "~0.2.3",
-    "underscore": "~1.5.2"
+    "underscore": "~1.5.2",
+    "chalk": "^0.4.0"
   }
 }

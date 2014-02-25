@@ -13,9 +13,12 @@ Install: `npm install -g ccal`
 * 201410
 ![201410](https://raw.github.com/lyuehh/ccal/master/screenshot/201410.png)
 
+* red is rest day, green is work day, blue is today...
+
 ## Release History
 
 * 0.0.2 2013-12-22 init
+* 0.0.4 2014-02-25 show today as blue
 
 ## License
 Copyright (c) 2013 lyuehh. Licensed under the MIT license.
