@@ -1,6 +1,6 @@
 {
   "name": "ccal",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "lib/ccal.js",
   "description": "cal for command line.",
   "homepage": "https://github.com/lyuehh/ccal",
