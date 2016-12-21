@@ -19,6 +19,7 @@ Install: `npm install -g ccal`
 
 * 0.0.2 2013-12-22 init
 * 0.0.4 2014-02-25 show today as blue
+* 0.0.6 2016-12-21 add year 2017
 
 ## License
 Copyright (c) 2013 lyuehh. Licensed under the MIT license.
