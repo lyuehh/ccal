@@ -23,6 +23,7 @@ Install: `npm install -g ccal`
 * 0.0.8 2017-12-07 add year 2018
 * 0.0.9 2018-12-06 add year 2019
 * 1.0.0 2018-12-30 fix year 2019
+* 2.0.0 2019-11-22 add year 2020
 
 ## License
 Copyright (c) 2013 lyuehh. Licensed under the MIT license.
