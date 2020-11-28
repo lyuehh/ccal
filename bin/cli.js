@@ -1,8 +1,10 @@
 #!/usr/bin/env node
 var _ = require('underscore');
 var run = require('../lib/ccal.js').run;
-var support = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020'];
-var supportStr = '2013 ~ 2020';
+var start = 2013;
+var years = 9;
+var support = [...new Array(years).fill(0).keys()].map(x => '' + (x + start));
+var supportStr = `${start} ~ ${start + years}`;
 
 var arg = process.argv[2];
 
