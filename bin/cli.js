@@ -4,7 +4,7 @@ var run = require('../lib/ccal.js').run;
 var start = 2013;
 var years = 9;
 var support = [...new Array(years).fill(0).keys()].map(x => '' + (x + start));
-var supportStr = `${start} ~ ${start + years}`;
+var supportStr = `${start} ~ ${start + years - 1}`;
 
 var arg = process.argv[2];
 
